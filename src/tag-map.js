@@ -76,5 +76,8 @@ exports.prefixTag = {
     'i-tooltip': 'Tooltip',
     'i-transfer': 'Transfer',
     'i-tree': 'Tree',
-    'i-upload': 'Upload'
+    'i-upload': 'Upload',
+    'i-list': 'List',
+    'i-list-item': 'ListItem',
+    'i-list-item-meta': 'ListItemMeta'
 };
